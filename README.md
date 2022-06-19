@@ -1,4 +1,4 @@
-![6DMM](https://user-images.githubusercontent.com/66454964/174483866-898092b7-5e7f-4467-95d1-f94fb513dac4.gif)
+![coding-cat](https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif)
 
 - Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
 - 👀 I am a software engineer 
