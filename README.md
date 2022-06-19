@@ -1,7 +1,9 @@
-- Hi, I’m @promitee-k (◕ᆽ◕ﾐ)ฅ
-- 👀 I’m interested in softwares, cats and memes
-- 🌱 I’m currently working with angular, node.js
-- 💞️ I’m looking to collaborate on any fun web based projects
+![6DMM](https://user-images.githubusercontent.com/66454964/174483866-898092b7-5e7f-4467-95d1-f94fb513dac4.gif)
+
+- Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
+- 👀 I am a software engineer 
+- 🌱 I’m currently working at a Japanese IT company
+- 💞️ I love cats, music, movies and cringe humour
 - 📫 You can reach me here : promiteee@gmail.com
 
 <!---
