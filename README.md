@@ -2,7 +2,6 @@
 
 - Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
 - 👀 I am a software engineer, currently working with `flutter web` 
-- 🌱 I’m currently working at a Japanese IT company
 - 💞️ I love cats, music, movies and cringe humour
 - 📫 You can reach me here : promiteee@gmail.com
 
