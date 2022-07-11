@@ -3,7 +3,7 @@
 - Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
 - 👀 I am a software engineer, currently working with `flutter web` 
 - 💞️ I love cats, music, movies and cringe humour
-- 📫 You can reach me here : promiteee@gmail.com
+- 📫 You can reach me here : nusrattahsinkamaly@gmail.com
 
 <!---
 promitee-k/promitee-k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
