@@ -2,7 +2,7 @@
 
 - Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
 - 👀 I am a software engineer, currently working with `flutter web` 
-- 💞️ I love cats, music, movies and cringe humour
+- 💞️ I love cats, music and dry humour
 - 📫 You can reach me here : nusrattahsinkamaly@gmail.com
 
 <!---
