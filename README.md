@@ -1,7 +1,7 @@
 ![coding-cat](https://user-images.githubusercontent.com/66454964/174484002-30687fa7-b429-49ce-a08e-4fec77c39608.gif)
 
 - Hi, I’m Nusrat (◕ᆽ◕ﾐ)ฅ
-- 👀 I am a software engineer, currently working with `flutter` and `riverpod` 
+- 👀 I am a software engineer, currently working with `React` and `Node.js` 
 - 💞️ I love cats, music and dry humour
 - 📫 You can reach me here : nusrattahsinkamaly@gmail.com
 
